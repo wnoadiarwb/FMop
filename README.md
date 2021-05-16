@@ -1,2 +1,2 @@
 # FMop
-Chowning style FM operator in JUCE
+Chowning style FM operator with JUCE
